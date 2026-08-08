@@ -1,0 +1,12 @@
+{
+  "name": "speed-horse-race",
+  "version": "1.0.0",
+  "description": "极速赛马场",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
